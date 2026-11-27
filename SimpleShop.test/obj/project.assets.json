@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "coverlet.collector/6.0.4": {
@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tobbe/Downloads/SimpleShop/SimpleShop.test/SimpleShop.test.csproj",
+      "projectUniqueName": "/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop.test/SimpleShop.test.csproj",
       "projectName": "SimpleShop.test",
-      "projectPath": "/home/tobbe/Downloads/SimpleShop/SimpleShop.test/SimpleShop.test.csproj",
+      "projectPath": "/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop.test/SimpleShop.test.csproj",
       "packagesPath": "/home/tobbe/.nuget/packages/",
-      "outputPath": "/home/tobbe/Downloads/SimpleShop/SimpleShop.test/obj/",
+      "outputPath": "/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop.test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tobbe/.nuget/NuGet/NuGet.Config"
@@ -948,15 +948,15 @@
         "net10.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/home/tobbe/Downloads/SimpleShop/SimpleShop/SimpleShop.Core.csproj": {
-              "projectPath": "/home/tobbe/Downloads/SimpleShop/SimpleShop/SimpleShop.Core.csproj"
+            "/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/SimpleShop.Core.csproj": {
+              "projectPath": "/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/SimpleShop.Core.csproj"
             }
           }
         }
@@ -971,11 +971,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
@@ -1011,7 +1010,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/tobbe/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.115/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

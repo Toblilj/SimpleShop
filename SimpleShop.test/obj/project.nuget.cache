@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sf/A/oDXTq8=",
+  "dgSpecHash": "IBM+6lBmKMg=",
   "success": true,
-  "projectFilePath": "/home/tobbe/Downloads/SimpleShop/SimpleShop.test/SimpleShop.test.csproj",
+  "projectFilePath": "/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop.test/SimpleShop.test.csproj",
   "expectedPackageFiles": [
     "/home/tobbe/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
     "/home/tobbe/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",

@@ -1,4 +1,6 @@
-﻿using System.Runtime.InteropServices;
+﻿using Xunit;
+using System.Runtime.InteropServices;
+using Microsoft.VisualBasic;
 using SimpleShop.Core.Entites;
 
 namespace SimpleShop;
@@ -108,7 +110,24 @@ public class UnitTest1
 
         var result=shopService.CalculatePrice(product,quantity);
 
-        Assert.Equal(0m,result);
+        Assert.Equal(-50m,result);
+    }
+
+    [Theory]
+
+[InlineData (100,true)]
+[InlineData(1,true)]
+[InlineData(0,false)]
+[InlineData(-10,false)]
+[InlineData(0.01,true)]
+    public void Test_BoundaryValue_OfInvalidPrice(decimal price, bool expected)
+    {
+        var shopService=new ShopService();
+        
+
+        var result=shopService.IsValidPrice(price);
+
+        Assert.Equal(expected,result);
     }
 
 

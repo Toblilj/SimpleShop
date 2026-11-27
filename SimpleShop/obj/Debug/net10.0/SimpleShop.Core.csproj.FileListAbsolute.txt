@@ -9,3 +9,15 @@
 /home/tobbe/Downloads/SimpleShop/SimpleShop/obj/Debug/net10.0/refint/SimpleShop.Core.dll
 /home/tobbe/Downloads/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.pdb
 /home/tobbe/Downloads/SimpleShop/SimpleShop/obj/Debug/net10.0/ref/SimpleShop.Core.dll
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/bin/Debug/net10.0/SimpleShop.Core.deps.json
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/bin/Debug/net10.0/SimpleShop.Core.dll
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/bin/Debug/net10.0/SimpleShop.Core.pdb
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.AssemblyInfoInputs.cache
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.AssemblyInfo.cs
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.csproj.CoreCompileInputs.cache
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.sourcelink.json
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.dll
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/refint/SimpleShop.Core.dll
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/SimpleShop.Core.pdb
+/home/tobbe/Desktop/Skolgrejer/Systemutvecklare/test/SimpleShop/SimpleShop/obj/Debug/net10.0/ref/SimpleShop.Core.dll
