@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SimpleShop.test/SimpleShop.test.csproj" />
+  <Project Path="SimpleShop/SimpleShop.Core.csproj" />
+</Solution>
